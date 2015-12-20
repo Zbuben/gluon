@@ -37,7 +37,7 @@ select gluon.solve(array['wanted_1', 'wanted_2']) will return all the informatio
 Postgres 9.0+ with hstore extension and pllua extension.
 Lua 5.2+
 
-# Changetable:
+# Changelog:
 - v0.1: First kit, elementary functionnalities are present, probably a lot of bugs, beware. See you soon.
 
 # Roadmap:
